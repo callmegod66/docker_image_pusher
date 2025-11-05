@@ -1,1 +1,1 @@
-b3log/siyuan
+pgvector/pgvector:pg15
